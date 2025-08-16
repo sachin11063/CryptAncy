@@ -1,1 +1,19 @@
 # CryptAncy
+
+
+## Environment Setup
+
+### Frontend (Client)
+Create a `.env` file inside the **Client/** directory and add:
+
+```env
+VITE_API_URL="http://localhost:3000"
+
+
+
+
+Create a .env file in the Server directory and add the following variables. For BackEnd
+MONGODB_URI="mongodb://127.0.0.1:27017/cryptotrack"
+PORT=3000
+CLIENT="http://localhost:5173"
+JWT_SECRET="YOUR_JWT_SECRET"
