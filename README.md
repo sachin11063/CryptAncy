@@ -6,7 +6,6 @@
 ### Frontend (Client)
 Create a `.env` file inside the **Client/** directory and add:
 
-``env
 VITE_API_URL="http://localhost:3000"
 
 
