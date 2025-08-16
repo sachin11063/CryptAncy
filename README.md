@@ -10,7 +10,7 @@ VITE_API_URL="http://localhost:3000"
 ```
 
 ### Backend (Server)
-Create a `.env` file inside the **Client/** directory and add:
+Create a `.env` file inside the **Server/** directory and add:
 
 ```env
 
