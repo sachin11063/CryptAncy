@@ -1,4 +1,4 @@
-# CryptAncy
+# CryptAncy (Track your portfolio and monitor live crypto prices instantly.)
 
 
 ## Environment Setup
